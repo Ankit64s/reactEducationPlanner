@@ -2,6 +2,9 @@
 
 The Education Planner is a simple React application to help users manage their study schedule by adding subjects, allocating study hours, and making adjustments to their study plan.
 
+# Hosted Link
+https://educationplanner.netlify.app/
+
 ## Project Setup
 
 To set up the project, follow these steps:
